@@ -1,0 +1,9 @@
+Este es un proyecto desarrollado por Monillo007 (http://monillo007.blogspot.com) cuyo fin es el ilustrar la programación de un lector biométrico en lenguaje Java.
+
+El proyecto es distribuído bajo la licencia Creative Commons 2.5(http://creativecommons.org/licenses/by-nc/2.5/mx/) México la cual te permite usarlo para los fines que desees siempre y cuando atribuyas su autoría al autor original (Monillo007) y no la utilíces con ánimos de lucro.
+
+Si te parece y te ha ayudado a desempeñar tu trabajo y/o proyecto solo te pido como retribución que visites y recomiendes mi blog http://monillo007.blogspot.com, un comentario de agradecimiento no estaría demás.
+
+Recordemos que el conocimiento humano le pertenece al mundo.
+
+Saludox.
